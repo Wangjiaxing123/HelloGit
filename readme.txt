@@ -1,3 +1,2 @@
-1.hello
-2.git
-3.swust
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
