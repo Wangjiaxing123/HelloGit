@@ -1,3 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-呵呵哈嘎哈  当当大噶
+Creating a new branch is quick and simple.
